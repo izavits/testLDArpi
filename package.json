@@ -1,0 +1,16 @@
+{
+  "name": "resin-ldabtc",
+  "version": "1.0.0",
+  "description": "Simple LDA application to BTC tweets",
+  "scripts": {
+    "preinstall": "bash deps.sh"
+  },
+  "engines": {
+    "node": "0.10.22"
+  },
+  "author": "izavits",
+  "license": "ISC",
+  "dependencies": {
+    "lda": "^0.1.6"
+  }
+}
