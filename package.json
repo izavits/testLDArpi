@@ -11,6 +11,7 @@
   "author": "izavits",
   "license": "ISC",
   "dependencies": {
-    "lda": "^0.1.6"
+    "lda": "^0.1.6",
+    "pi-pins": "^1.0.2"
   }
 }
