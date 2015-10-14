@@ -1,5 +1,5 @@
 {
-  "name": "resin-ldabtc",
+  "name": "resin-LDAtweets",
   "version": "1.0.0",
   "description": "Simple LDA application to BTC tweets",
   "scripts": {
